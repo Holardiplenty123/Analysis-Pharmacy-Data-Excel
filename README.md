@@ -1,5 +1,9 @@
 # Phamarcy Data Analysis
 
+# TOOLS - MICROSOFT EXCEL
+
+
+
 ## INTRODUCTION
 This dataset captures operational and transactional information from a European pharmacy chain distributor, encompassing multiple countries across Europe. It provides valuable insights into sales, inventory, and customer trends, offering a comprehensive view of the pharmacy’s performance. Analyzing it demonstrates how data can drive smarter decisions in pharmaceutical retail.
 
@@ -15,3 +19,5 @@ The goal of the analysis includes the following
 
   ## Problem Statement
 This analysis seeks to understand how revenue, units sold, and profit margins evolve over time, including any seasonal trends, while identifying which countries, regions, and individual pharmacies contribute most to overall performance. It also examines differences in performance across geographic hierarchies (country, region, and pharmacy), highlighting outperforming and underperforming locations, and explores how pharmacy types (urban, suburban, and rural) compare in terms of sales and profitability. In addition, the study investigates which product categories and brands generate the highest revenue and margins, identifies products with mismatches between volume and profitability, and evaluates the impact of promotions on sales performance, while also assessing how regional trends and geographic patterns contribute to overall business outcomes.
+
+## Approach to Problem Statement
