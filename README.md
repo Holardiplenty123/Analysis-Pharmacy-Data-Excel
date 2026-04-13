@@ -153,8 +153,14 @@ Revenue peaks are visible around **July–August** and **October–November** ac
 
 ## 📬 Contact
 
-**Samuel** — Data Analyst  
-*Built as part of a competitive data challenge.*
+**Adigun Samuel Oladipupo** — Data Analyst  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adigun-samuel-3397b7238)  
+📧 adigunsamueloladipupo@gmail.com
+
+---
+
+> *Dataset is simulated for educational and competition purposes. All pharmacy and product names are fictitious. Built as part of the DataDNA Dataset Challenge.*
+
 
 ---
 
