@@ -7,7 +7,7 @@ An end-to-end **Microsoft Excel** analytics project built on a simulated Europea
 ## 📊 Dashboard Preview
 
 ### Sales Summary
-![Sales Summary](screenshots/Screenshot_2026-02-16_041914.png)
+![Sales Summary](sales_summary.jpg)
 
 ### Geographical Analysis
 ![Geographical Analysis](Geographical_Analysis.jpg)
